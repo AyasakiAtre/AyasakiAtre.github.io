@@ -108,3 +108,6 @@ search:
   path: search.xml
   field: post
   content: true
+
+aplayer:
+  asset_inject: false
