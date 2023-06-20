@@ -10,20 +10,20 @@ PSS：恕不提供其他软件下载地址。
 
  *开始部署*
 你需要准备的：
-# 1.**Python3.10**
+# **Python3.10**
 安装Python的时候记得勾选上add to path(不然就等着去手动加吧)
 
-# 2.**Git**
+# **Git**
 我们使用Git来clone仓库地址，以便部署。
 这是我们更新SD必备的工具(你也不想每次重新部署吧)
 
 准备工程做好，接下来开始安装SD。
 
-# 3.**代理工具**
+# **代理工具**
 找到你的本地代理地址并记住
 ![](https://tenicol.oss-cn-shanghai.aliyuncs.com/website/%E4%BB%A3%E7%90%86%E5%9C%B0%E5%9D%80.png)
 
-# 4.**Clone仓库**
+# **Clone仓库**
 找到一个你要放置SD的目录，shift+右键打开powershell
 输入以下命令
 set http_proxy=http://127.0.0.1:端口号  
@@ -33,7 +33,7 @@ set https_proxy=http://127.0.0.1:端口号
 因为我已经在E盘部署了一个，所以换了一个目录
 ![](https://tenicol.oss-cn-shanghai.aliyuncs.com/website/SD%E9%83%A8%E7%BD%B2.png)
 
-# 5.**安装SD**
+# **安装SD**
 我们CD进入SD根目录，运行webui-user.bat
 ![](https://tenicol.oss-cn-shanghai.aliyuncs.com/website/SD%E5%AE%89%E8%A3%85.png)
 然后就会自动安装依赖什么的，等待安装完成就行
