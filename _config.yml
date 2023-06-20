@@ -104,3 +104,7 @@ theme: butterfly
 deploy:
   type: ''
 
+search:
+  path: search.xml
+  field: post
+  content: true
