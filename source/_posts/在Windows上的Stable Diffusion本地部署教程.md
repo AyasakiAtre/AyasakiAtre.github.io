@@ -1,3 +1,7 @@
+---
+title: Windows本地部署Stable Diffusion教程
+---
+
 Stable-Diffusion-webui(以下简称SD)是由AUTOMATIC1111建立的一个项目，为我们使用AI绘画提供了很多便利。
 接下来我将详细介绍如何在本地部署SD。
 其实本身也没什么难的，只要弄好网络环境就行。
