@@ -9,16 +9,16 @@ nav:
 
 # Menu 目錄
 menu:
-  首页: / || fas fa-home
-  时间轴: /archives/ || fas fa-archive
-  标签: /tags/ || fas fa-tags
-  分类: /categories/ || fas fa-folder-open
-  清单||fa fa-heartbeat:
-    音乐: /music/ || fas fa-music
-    照片: /Gallery/ || fas fa-images
-    电影: /movies/ || fas fa-video
-  友链: /link/ || fas fa-link
-  关于: /about/ || fas fa-heart
+  Home: / || fas fa-home
+  Archives: /archives/ || fas fa-archive
+  Categories: /categories/ || fas fa-folder-open
+  Entertainment||fa fa-heartbeat:
+    Bangumi: /bangumis/ || fab fa-youtube
+    Steam: /steamgames/ || fab fa-steam
+    Gallery: /Gallery/ || fas fa-image
+    Music: /Music/ || fas fa-music
+  Link: /link/||fas fa-link
+  About: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
 # --------------------------------------
