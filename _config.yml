@@ -5,11 +5,11 @@
 # Site
 title: アトレのblog
 subtitle: ''
-description: '如今，邂逅苍穹的是，彼此呼吸都能感受的距离...'
-keywords:'如今，邂逅苍穹的是，彼此呼吸都能感受的距离...'
+description: ''
+keywords:
 author: アトレ
 language: zh-CN
-timezone: ''
+timezone: ''如今，邂逅苍穹的是，彼此呼吸都能感受的距离。'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
