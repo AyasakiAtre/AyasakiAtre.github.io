@@ -8,7 +8,7 @@ Stable-Diffusion-webui(以下简称SD)是由AUTOMATIC1111建立的一个项目�
 PS：仅限N卡，A卡请另寻他路。
 PSS：恕不提供其他软件下载地址。
 
-## *开始部署*
+ *开始部署*
 你需要准备的：
 # 1.**Python3.10**
 安装Python的时候记得勾选上add to path(不然就等着去手动加吧)
