@@ -16,7 +16,7 @@ menu:
     Bangumi: /bangumis/ || fab fa-youtube
     Steam: /steamgames/ || fab fa-steam
     Gallery: /Gallery/ || fas fa-image
-    Music: /Music/ || fas fa-music
+    Music: /music/ || fas fa-music
   Link: /link/||fas fa-link
   About: /about/ || fas fa-heart
 
