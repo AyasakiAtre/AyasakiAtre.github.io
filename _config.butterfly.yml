@@ -42,7 +42,7 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/favicon.png
+favicon: https://tenicol.oss-cn-shanghai.aliyuncs.com/website/avatar.jpg
 
 # Avatar (頭像)
 avatar:
