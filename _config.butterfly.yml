@@ -233,10 +233,10 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/AyasakiAtre
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: This is my blog
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
@@ -843,8 +843,8 @@ pjax:
 
 # Inject the css and script (aplayer/meting)
 aplayerInject:
-  enable: false
-  per_page: true
+  enable: true
+  per_page: false
 
 # Snackbar (Toast Notification 彈窗)
 # https://github.com/polonel/SnackBar
