@@ -36,7 +36,7 @@ code_word_wrap: false
 social:
   fab fa-github: https://github.com/AyasakiAtre || Github 
   fas fa-tv: https://space.bilibili.com/13353491 || bilibili
-  fas fa-envelope: KianaTenicol@outlook.com || Email
+  fas fa-envelope: mailto:KianaTenicol@outlook.com || Email
 
 # Image (圖片設置)
 # --------------------------------------
