@@ -33,7 +33,7 @@ set https_proxy=http://127.0.0.1:端口号
 因为我已经在E盘部署了一个，所以换了一个目录
 ![](https://tenicol.oss-cn-shanghai.aliyuncs.com/website/SD%E9%83%A8%E7%BD%B2.png)
 
-5.安装SD
+5.**安装SD**
 我们CD进入SD根目录，运行webui-user.bat
 ![](https://tenicol.oss-cn-shanghai.aliyuncs.com/website/SD%E5%AE%89%E8%A3%85.png)
 然后就会自动安装依赖什么的，等待安装完成就行
@@ -47,5 +47,8 @@ set https_proxy=http://127.0.0.1:端口号
 接下来就尽情生成图片吧！
 
 PS:如果安装途中有重启过powershell，请重新设置代理，不然大概率会报错
+
+
+
 
 
