@@ -47,7 +47,7 @@ favicon: https://tenicol.oss-cn-shanghai.aliyuncs.com/website/avatar.jpg
 # Avatar (頭像)
 avatar:
   img: https://tenicol.oss-cn-shanghai.aliyuncs.com/website/avatar.jpg
-  effect: true
+  effect: false
 
 # Disable all banner image
 disable_top_img: false
