@@ -1,5 +1,8 @@
 ---
 title: AI立绘工作流
+date: 2023-06-20 20:26:39
+tags: [AI, Workflow]
+categories: AI
 ---
 
 首先是模型:推荐使用Nai等训练模型，不要使用提示词的准确性一塌糊涂的融合模型 

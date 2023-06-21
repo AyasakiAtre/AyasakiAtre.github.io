@@ -1,5 +1,8 @@
 ---
 title: 在Windows上部署Stable Diffusion教程
+date: 2023-06-20 20:20:20
+tag: AI
+categories: AI
 ---
 
 Stable-Diffusion-webui(以下简称SD)是由AUTOMATIC1111建立的一个项目，为我们使用AI绘画提供了很多便利。
