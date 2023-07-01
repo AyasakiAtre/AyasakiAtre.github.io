@@ -51,7 +51,7 @@ set https_proxy=http://127.0.0.1:端口号
 接下来就尽情生成图片吧！
 
 PS:如果安装途中有重启过powershell，请重新设置代理，不然大概率会报错
-
+PSS:如果你本身设置了国内源，可以不设置代理，但是注意当遇到卡在installing gfpgan或者报错提示找不到合适的tb-nightly版本时应该切换成阿里源
 
 
 
