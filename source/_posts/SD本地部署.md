@@ -29,9 +29,10 @@ PSS：恕不提供其他软件下载地址。
 # **Clone仓库**
 找到一个你要放置SD的目录，shift+右键打开powershell
 输入以下命令
-set http_proxy=http://127.0.0.1:端口号  
-set https_proxy=http://127.0.0.1:端口号
+git config --global http.proxy 代理地址:端口号 
+git config --global https.proxy 代理地址:端口号
 ![](https://tenicol.oss-cn-shanghai.aliyuncs.com/website/%E4%BB%A3%E7%90%86%E8%AE%BE%E7%BD%AE.png)
+图中输错了，照着文字来就行(
 然后输入git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
 因为我已经在E盘部署了一个，所以换了一个目录
 ![](https://tenicol.oss-cn-shanghai.aliyuncs.com/website/SD%E9%83%A8%E7%BD%B2.png)
