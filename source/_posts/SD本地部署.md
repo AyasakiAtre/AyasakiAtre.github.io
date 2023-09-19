@@ -27,7 +27,7 @@ PSS：恕不提供其他软件下载地址。
 ![](https://tenicol.oss-cn-shanghai.aliyuncs.com/website/%E4%BB%A3%E7%90%86%E5%9C%B0%E5%9D%80.png)
 
 # **Clone仓库**
-找到一个你要放置SD的目录，shift+右键打开powershell
+找到一个你要放置SD的目录，shift+右键打开终端
 输入以下命令
 git config --global http.proxy 代理地址:端口号 
 git config --global https.proxy 代理地址:端口号
@@ -51,7 +51,7 @@ git config --global https.proxy 代理地址:端口号
 ## *结束部署*
 接下来就尽情生成图片吧！
 
-PS:如果安装途中有重启过powershell，请重新设置代理，不然大概率会报错
+PS:如果安装途中有重启过终端，请重新设置代理，不然大概率会报错
 PSS:如果你本身设置了国内源，可以不设置代理，但是注意当遇到卡在installing gfpgan或者报错提示找不到合适的tb-nightly版本时应该切换成阿里源
 
 
