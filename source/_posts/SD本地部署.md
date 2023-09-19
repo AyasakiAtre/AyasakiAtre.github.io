@@ -31,7 +31,7 @@ PSS：恕不提供其他软件下载地址。
 输入以下命令
 git config --global http.proxy 代理地址:端口号 
 git config --global https.proxy 代理地址:端口号
-![](https://tenicol.oss-cn-shanghai.aliyuncs.com/website/%E4%BB%A3%E7%90%86%E8%AE%BE%E7%BD%AE.png)
+![](https://tenicol.oss-cn-shanghai.aliyuncs.com/website/202309191046764.png)
 图中输错了，照着文字来就行(
 然后输入git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
 因为我已经在E盘部署了一个，所以换了一个目录
