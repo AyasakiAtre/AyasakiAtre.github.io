@@ -32,8 +32,8 @@ PSS：恕不提供其他软件下载地址。
 git config --global http.proxy 代理地址:端口号 
 git config --global https.proxy 代理地址:端口号
 ![](https://tenicol.oss-cn-shanghai.aliyuncs.com/website/202309191046764.png)
-图中输错了，照着文字来就行(
 然后输入git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
+图中的代理地址输错了，照着后面来就行(
 因为我已经在E盘部署了一个，所以换了一个目录
 ![](https://tenicol.oss-cn-shanghai.aliyuncs.com/website/SD%E9%83%A8%E7%BD%B2.png)
 
